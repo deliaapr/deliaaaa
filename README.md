@@ -1,6 +1,21 @@
-<p>Tools Yang Digunakan</p>
-<p>Laravel , Xampp 8.2.12, Composer 2.7.3, Git bash 2.44.0 windows.1, Diagram draw.io 24.2.8</p>
-<p>menginstal laravel kita harus download dulu xampp dan composer, menggunakan gitbash sebagai terminal dan diagram draw io untuk mengedit Ir D</p>
+<p><strong>TOOLS YANG DIGUNAKAN</strong></p>
+<p><strong>-Laravel</strong></p>
+<p><strong>-Xampp (Versi 8.2.12)</strong></p>
+<p><strong>-Composer (Versi 2.7.3)</strong></p>
+<p><strong>-Git Bash (Versi 2.44.0.windows.1)</strong></p>
+<p><strong>-Diagram DrawIo (Versi 24.2.8)</strong></p>
+
+<p><strong>INSTALASI</strong></p>
+<p><strong>Sebelum menginstall laravel kita Membutuhkan:</strong></p>
+<p><strong>-Xampp</strong></p>
+<p><strong>-Composer</strong></p>
+
+<p><strong>Saya membuat GaleriWebFoto dengan menggunakan laravel. Saya membuat web foto ini dengan cara sederhana, ada beberapa fitur yang saya gunakan diantaranya:</strong></p>
+<p><strong>-Login</strong></p>
+<p><strong>-Registrasi</strong></p>
+<p><strong>-Logout</strong></p>
+<p><strong>-Menambah dan Menghapus Foto</strong></p>
+<p><strong>-Share dan Download foto</strong></p>
 
 ![alt text](https://github.com/ulfi16/ulfiiii/blob/main/public/Screenshot%20(12).png?raw=true)
 
