@@ -15,7 +15,7 @@
                                 <select class="form-control" onchange="sort_by(this.value)">
                                     <option value="terbaru" {{(Request::query('sort_by') && Request::query('sort_by')=='terbaru' || !Request::query('sort_by') ) ?'selected':''}}>Terbaru</option>
                                     <option value="terlama" {{(Request::query('sort_by') && Request::query('sort_by')=='terlama' || !Request::query('sort_by') ) ?'selected':''}}>Terlama</option>
-                                    
+
                                 </select>
                             </form>
                         </div>
@@ -223,7 +223,7 @@ $("#image_upload_form").validate({
         extension:"png|jpeg|jpg|bmp"
         }
 
-    
+
   },
   messages: {
     caption: {
@@ -261,7 +261,7 @@ $("#image_upload_form").validate({
       if(!validimageType.includes(input.files[0]['type'])){
 
       }else{
-        
+
       }
 
       var htmlPreview =
