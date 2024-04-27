@@ -17,7 +17,7 @@
 <p><strong>-Menambah dan Menghapus Foto</strong></p>
 <p><strong>-Share dan Download foto</strong></p>
 
-![alt text](https://github.com/ulfi16/ulfiiii/blob/main/public/Screenshot%20(12).png?raw=true)
+![alt text](https://github.com/deliaapr/deliaaaa/blob/main/public/Screenshot%20(14)%20(1).png?raw=true)
 
 ![alt text](https://github.com/deliaapr/deliaaaa/blob/main/public/Screenshot%20(7)%20(1).png?raw=true)
 
